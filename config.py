@@ -1,1 +1,1 @@
-NEWS_API_KEY = "your_newsapi_key_here"  # Replace with your NewsAPI key
+NEWS_API_KEY = "86e93cfa23e44affbfabcc6e25334caa"  # Replace with your NewsAPI key
