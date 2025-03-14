@@ -1,0 +1,9 @@
+newsapi-python
+nltk
+yfinance
+pandas
+arch
+matplotlib
+streamlit
+scipy
+requests
