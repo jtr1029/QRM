@@ -1,5 +1,5 @@
 # 📈 News-Based Financial Insights App
-
+https://4d625r8x7fmtcx8dprpnjh.streamlit.app/
 This application provides **real-time financial insights** by analyzing **news sentiment**, **stock prices**, and **market volatility**.
 
 ## 🚀 Features
